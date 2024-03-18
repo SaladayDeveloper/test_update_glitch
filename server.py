@@ -10,7 +10,7 @@ def main():
 
 @app.route("/")
 def index():
-    return 'ok'
+    return 'change'
 
 
 if __name__ == '__main__':
